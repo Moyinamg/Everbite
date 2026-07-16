@@ -90,9 +90,6 @@ npm install
 npm run dev
 ```
 
-### Development Server
-The app will be available at: `http://localhost:5173`
-
 ### Build for Production
 ```bash
 # Build the project
